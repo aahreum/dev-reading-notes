@@ -8,5 +8,5 @@
 
 ### 📖 정리한 책
 
-<table><thead><tr><th width="556.1015625">제목</th><th>상태</th></tr></thead><tbody><tr><td>🐯 코어 자바스크립트</td><td><code>🟡 정리중</code></td></tr></tbody></table>
+<table><thead><tr><th data-type="content-ref">Title</th><th>State</th></tr></thead><tbody><tr><td><a href="/broken/pages/nLgBgNHDZJQL4cPaSLdT">Broken link</a></td><td><code>🟡 정리중</code></td></tr></tbody></table>
 
