@@ -2,7 +2,12 @@
 
 * [📚 Dev Reading Notes](README.md)
 
-## 🐯 코어 자바스크립트 <a href="#core-javascript" id="core-javascript"></a>
+## 📖 books
 
-* [🗂️ 목차](core-javascript/contents.md)
-* [1️⃣ 데이터 타입](core-javascript/chapter-01.md)
+* [🐯 코어 자바스크립트](books/core-javascript/README.md)
+  * [1️⃣ 데이터 타입](books/core-javascript/chapter-01.md)
+
+## 🔗 Link
+
+* [Blog](https://cocoding420.tistory.com/)
+* [GitHub](https://github.com/aahreum)

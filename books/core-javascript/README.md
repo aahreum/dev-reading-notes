@@ -1,6 +1,6 @@
-# 🗂️ 목차
+# 🐯 코어 자바스크립트
 
-<div align="left" data-full-width="false"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
+<div align="left" data-full-width="false"><figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 ### [1️⃣ 데이터타입](chapter-01.md)
 
