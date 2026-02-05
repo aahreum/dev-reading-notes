@@ -8,8 +8,5 @@
 
 ### 📖 정리한 책
 
-<table><thead><tr><th data-type="image">표지</th><th width="388.3125">제목</th><th>상태</th></tr></thead><tbody><tr><td><a href=".gitbook/assets/image.png">image.png</a></td><td><a data-footnote-ref href="#user-content-fn-1">코어 자바스크립트</a></td><td>🟡 정리중</td></tr></tbody></table>
+<table><thead><tr><th width="556.1015625">제목</th><th>상태</th></tr></thead><tbody><tr><td>🐯 코어 자바스크립트</td><td><code>🟡 정리중</code></td></tr></tbody></table>
 
-
-
-[^1]: 
