@@ -8,5 +8,8 @@
 
 ### 📖 정리한 책
 
-<table><thead><tr><th data-type="content-ref">Title</th><th>State</th></tr></thead><tbody><tr><td><a href="/broken/pages/nLgBgNHDZJQL4cPaSLdT">Broken link</a></td><td><code>🟡 정리중</code></td></tr></tbody></table>
+| Title | State |
+|------|-------|
+| 🐯 [코어 자바스크립트](https://ahreum.gitbook.io/dev-reading-notes/core-javascript) | 🟡 정리중 |
+
 
