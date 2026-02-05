@@ -8,4 +8,4 @@
 
 ### 📖 정리한 책
 
-<table data-full-width="true"><thead><tr><th width="584.45703125">Title</th><th>State</th></tr></thead><tbody><tr><td>🐯 <a href="https://ahreum.gitbook.io/dev-reading-notes/core-javascript">코어 자바스크립트</a></td><td>🟡 정리중</td></tr></tbody></table>
+<table data-full-width="false"><thead><tr><th width="584.45703125">Title</th><th>State</th></tr></thead><tbody><tr><td>🐯 <a href="https://ahreum.gitbook.io/dev-reading-notes/core-javascript">코어 자바스크립트</a></td><td>🟡 정리중</td></tr></tbody></table>
